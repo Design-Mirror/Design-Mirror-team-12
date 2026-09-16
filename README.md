@@ -30,21 +30,21 @@ NEXORA-2K26
 
 ### College Name
 
-`________________________________________`
+`Adithya Institue Of Technology`
 
 ### Team Name
 
-`________________________________________`
+`BLUE Team`
 
 ### Team Members
 
 **Member 1**
 
-* Name: `________________________________`
+* Name: `Sharmila S`
 
 **Member 2**
 
-* Name: `________________________________`
+* Name: `Namitha A`
 
 
 # About the Challenge
